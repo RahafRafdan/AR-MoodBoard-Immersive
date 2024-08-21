@@ -1,0 +1,606 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "Dublin Chair",
+  "identifier": "master3_d_object_model:36803-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+  "sourceIdentifier": "asset_collection_model:36807-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 160.93679809570312,
+  "globalScaleFactor": 0.010944654477511988,
+  "height": 86.2511978149414,
+  "hidden": false,
+  "layerIdentifier": "layer0",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": -1.570796251296997,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 0.9999999403953552,
+    "sz": 0.9999999403953552,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 182.73760986328125,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "bd46f1261f1644d2a0dd6330d29c6bcf.fbx",
+      "identifier": "sceneObject:36739-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": 1.5707963705062866,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "sceneObject",
+          "name": "RootNode",
+          "identifier": "sceneObject:36741-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "layerIdentifier": "layer0",
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "shapeColor": "0xff808080",
+          "shapeType": 0,
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "children": [
+            {
+              "modelName": "sceneObject",
+              "name": "white_chair",
+              "identifier": "sceneObject:36743-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": -1.5707963705062866,
+                "ry": 0,
+                "rz": 0,
+                "sx": 2.5399999618530273,
+                "sy": 2.5399999618530273,
+                "sz": 2.5399999618530273,
+                "x": 0.5825400352478027,
+                "y": -0.005576223134994507,
+                "z": -0.35451215505599976
+              },
+              "children": [
+                {
+                  "modelName": "sceneObject",
+                  "name": "legs",
+                  "identifier": "sceneObject:36745-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": -0.08961572498083115,
+                    "y": -0.12327694892883301,
+                    "z": -0.06021777167916298
+                  },
+                  "children": [
+                    {
+                      "modelName": "sceneObject",
+                      "name": "Object_5",
+                      "identifier": "sceneObject:36747-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "shapeColor": "0xff808080",
+                      "shapeType": 0,
+                      "tags": [],
+                      "transform": {
+                        "rx": 1.5707963705062866,
+                        "ry": 0,
+                        "rz": 3.1415927410125732,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0.03092609904706478,
+                        "y": 0.12119530141353607,
+                        "z": 0.07199171185493469
+                      },
+                      "children": [
+                        {
+                          "modelName": "mesh",
+                          "name": "legs_metal_Leg_0",
+                          "identifier": "mesh:36749-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "legs_metal_Leg_0",
+                          "numberOfFaces": 1744,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:36753-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:36751-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:36756-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:36707-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                                  "surfaceGroupIdentifier": "36757-d3f2b02e-8636-4b83-998e-1ec91b469d7c"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "leatherChair",
+                  "identifier": "sceneObject:36759-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": -0.12626048922538757,
+                    "y": -0.1232769638299942,
+                    "z": -0.2397880256175995
+                  },
+                  "children": [
+                    {
+                      "modelName": "sceneObject",
+                      "name": "Object_8",
+                      "identifier": "sceneObject:36761-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "shapeColor": "0xff808080",
+                      "shapeType": 0,
+                      "tags": [],
+                      "transform": {
+                        "rx": 1.5707963705062866,
+                        "ry": 0,
+                        "rz": 3.1415927410125732,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0.06757086515426636,
+                        "y": 0.12119530886411667,
+                        "z": 0.2515619695186615
+                      },
+                      "children": [
+                        {
+                          "modelName": "mesh",
+                          "name": "leatherChair_leather_white_0",
+                          "identifier": "mesh:36763-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "leatherChair_leather_white_0",
+                          "numberOfFaces": 8544,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:36767-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:36765-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:36770-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:36717-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                                  "surfaceGroupIdentifier": "36771-d3f2b02e-8636-4b83-998e-1ec91b469d7c"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
+              "name": "black_chair",
+              "identifier": "sceneObject:36773-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": 1.5707963705062866,
+                "ry": -1.2251873016357422,
+                "rz": 3.1415927410125732,
+                "sx": 2.5399999618530273,
+                "sy": 2.5399999618530273,
+                "sz": 2.5399999618530273,
+                "x": -0.4692436456680298,
+                "y": -0.005576223134994507,
+                "z": 0.47117820382118225
+              },
+              "children": [
+                {
+                  "modelName": "sceneObject",
+                  "name": "leatherChair001",
+                  "identifier": "sceneObject:36775-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -1.8488927466117464E-32,
+                    "ry": 2.465190328815662E-32,
+                    "rz": -5.551115123125783E-17,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": -0.12626048922538757,
+                    "y": -0.1232769712805748,
+                    "z": -0.2397880256175995
+                  },
+                  "children": [
+                    {
+                      "modelName": "sceneObject",
+                      "name": "Object_12",
+                      "identifier": "sceneObject:36777-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "shapeColor": "0xff808080",
+                      "shapeType": 0,
+                      "tags": [],
+                      "transform": {
+                        "rx": 1.5707963705062866,
+                        "ry": 0,
+                        "rz": 3.1415927410125732,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0.06757086515426636,
+                        "y": 0.12119530886411667,
+                        "z": 0.2515619695186615
+                      },
+                      "children": [
+                        {
+                          "modelName": "mesh",
+                          "name": "leatherChair001_leather_dark_0",
+                          "identifier": "mesh:36779-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "leatherChair001_leather_dark_0",
+                          "numberOfFaces": 8544,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:36783-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:36781-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:36786-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:36727-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                                  "surfaceGroupIdentifier": "36787-d3f2b02e-8636-4b83-998e-1ec91b469d7c"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "legs001",
+                  "identifier": "sceneObject:36789-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -1.8488927466117464E-32,
+                    "ry": 2.465190328815662E-32,
+                    "rz": -5.551115123125783E-17,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": -0.08961572498083115,
+                    "y": -0.12327694892883301,
+                    "z": -0.06021777167916298
+                  },
+                  "children": [
+                    {
+                      "modelName": "sceneObject",
+                      "name": "Object_15",
+                      "identifier": "sceneObject:36791-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "shapeColor": "0xff808080",
+                      "shapeType": 0,
+                      "tags": [],
+                      "transform": {
+                        "rx": 1.5707963705062866,
+                        "ry": 0,
+                        "rz": 3.1415927410125732,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0.03092609904706478,
+                        "y": 0.12119530141353607,
+                        "z": 0.07199171185493469
+                      },
+                      "children": [
+                        {
+                          "modelName": "mesh",
+                          "name": "legs001_metal_Leg_0",
+                          "identifier": "mesh:36793-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "legs001_metal_Leg_0",
+                          "numberOfFaces": 1744,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:36797-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:36795-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:36800-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:36707-d3f2b02e-8636-4b83-998e-1ec91b469d7c",
+                                  "surfaceGroupIdentifier": "36801-d3f2b02e-8636-4b83-998e-1ec91b469d7c"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

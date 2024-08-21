@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "photo_2024-07-04_00-52-34",
+  "identifier": "texture:132378-a10dce90-c37a-4b25-9f55-08cc73cc72c0",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "d439824493715498dddf22a6470827d3",
+  "assetLocator": "textures/photo_2024-07-04_00-52-34.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:12443-8c10c524-2644-42fc-8e95-29e27e891c78",
+    "textureExportConfig:12659-8c10c524-2644-42fc-8e95-29e27e891c78",
+    "textureExportConfig:12877-8c10c524-2644-42fc-8e95-29e27e891c78"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 758,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "d439824493715498dddf22a6470827d3",
+      "colorCount": 5321,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 9.713064119074403,
+      "pixelsHigh": 758,
+      "pixelsWide": 1024
+    }
+  ]
+}
