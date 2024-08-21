@@ -1,14 +1,19 @@
 # AR-MoodBoard-Immersive
-MoodBoard Immersive is a cutting-edge augmented reality (AR) prototype designed for design companies, developed using Meta Spark Studio. This innovative tool allows clients to virtually step into their mood board and see it come to life in their surroundings. The prototype enables users to access a virtual room where they can experiment with different floor and wall colors by tapping on materials displayed on the screen. This functionality is aimed at simplifying the decision-making process, boosting confidence in design choices, and streamlining the overall design workflow.
-                   ![Images/AR MoodBoard Immersive photo.jpeg](https://github.com/RahafRafdan/AR-MoodBoard-Immersive/blob/main/Images/AR%20MoodBoard%20Immersive%20photo.jpeg)
+
+MoodBoard Immersive is a cutting-edge augmented reality (AR) prototype designed for design companies, developed using Meta Spark Studio. This innovative tool allows clients to virtually step into their moodboard and see it come to life in their surroundings. The prototype enables users to access a virtual room where they can experiment with different floor and wall colors by tapping on materials displayed on the screen. This functionality is aimed at simplifying the decision-making process, boosting confidence in design choices, and streamlining the overall design workflow.
+
+<div align="center">
+  <img src="Images/AR MoodBoard Immersive photo1.jpeg" alt="MoodBoard Immersive Screenshot" width="300"/>
+</div>
+
 
 ## Key Advantages
 
-- *Real-Time Visualization*: Instantly visualize how different design elements will look in their actual space, providing a more accurate representation of the final result.
-- *Interactive Experience*: Engage directly with the virtual room for a more intuitive and interactive design process.
-- *Time Efficiency*: Eliminate the need for physical samples and lengthy consultations, significantly streamlining the design process.
-- *Enhanced Customization*: Quickly explore a wide range of options and combinations to ensure the design meets exact preferences.
-- *Reduced Hesitation*: Helps clients who are hesitant to make faster decisions, accelerating the design process and leading to quicker project completion.
+- ⭐ Real-Time Visualization: Instantly visualize how different design elements will look in their actual space.
+- 🖱️ Interactive Experience: Engage directly with the virtual room for a more intuitive design process.
+- ⏱️ Time Efficiency: Streamline the design process by eliminating physical samples and lengthy consultations.
+- 🎨 Enhanced Customization: Explore a range of options to meet exact preferences.
+- 🚀 Reduced Hesitation: Accelerate the design process and project completion.
 
 ## How It Works
 
